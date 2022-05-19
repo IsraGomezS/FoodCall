@@ -10,6 +10,7 @@ public class Platillo {
     private double precio;
     private String descripcion;
     private int existencias;
+    
     /**
      * Constructor vacío.
      */
